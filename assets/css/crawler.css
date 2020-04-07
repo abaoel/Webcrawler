@@ -1,0 +1,15 @@
+table {
+  border-collapse: collapse;
+  border-left: 1px solid #bbbbbb;
+  border-top: 1px solid #bbbbbb;
+}
+th, td {
+  border-right: 1px solid #bbbbbb;
+  border-bottom: 1px solid #bbbbbb;
+}
+.toggleButton {
+  float: right;
+}
+.hiddenRow {
+  display: none;
+}
