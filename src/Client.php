@@ -3,9 +3,9 @@
 class Client {
 
     
-    const USER_HTTP = 'abaoel@gmail.com';
-    const PASS_HTTP = 'go0liu3x';
-    const LOGIN_URL_HTTP = 'http://nabepero.xyz/login';
+    const USER_HTTP = '******';
+    const PASS_HTTP = '******';
+    const LOGIN_URL_HTTP = 'http://******';
 
     private $curl;
 

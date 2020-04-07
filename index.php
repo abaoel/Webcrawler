@@ -17,7 +17,7 @@ $Client->getDataHtml($html);
 <html>
     <head lang="en">
         <meta charset="UTF-8">
-        <title>Bbo - Web Crawler</title>
+        <title>Larvel - Web Crawler</title>
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="assets/css/crawler.css"/>
     </head>
